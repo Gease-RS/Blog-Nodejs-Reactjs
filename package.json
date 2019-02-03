@@ -1,0 +1,25 @@
+{
+  "name": "blog-nodejs-reactjs",
+  "version": "1.0.0",
+  "description": "Blog com Nodejs no Back-End e Reactjs no Front-End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gease-RS/Blog-Nodejs-Reactjs.git"
+  },
+  "keywords": [
+    "\"Node\"",
+    "\"Nodejs\"",
+    "\"React\"",
+    "\"Reactjs\""
+  ],
+  "author": "Gease Oliveira da Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gease-RS/Blog-Nodejs-Reactjs/issues"
+  },
+  "homepage": "https://github.com/Gease-RS/Blog-Nodejs-Reactjs#readme"
+}
