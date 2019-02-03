@@ -11,15 +11,19 @@
     "url": "git+https://github.com/Gease-RS/Blog-Nodejs-Reactjs.git"
   },
   "keywords": [
-    "\"Node\"",
-    "\"Nodejs\"",
-    "\"React\"",
-    "\"Reactjs\""
+    "Node",
+    "Nodejs",
+    "React",
+    "Reactjs"
   ],
   "author": "Gease Oliveira da Rosa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Gease-RS/Blog-Nodejs-Reactjs/issues"
   },
-  "homepage": "https://github.com/Gease-RS/Blog-Nodejs-Reactjs#readme"
+  "homepage": "https://github.com/Gease-RS/Blog-Nodejs-Reactjs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
 }
